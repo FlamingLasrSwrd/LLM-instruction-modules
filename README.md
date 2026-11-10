@@ -44,5 +44,4 @@ License; its [`LICENSE`](home-assistant/best-practices/LICENSE) file applies
 to that directory. To update it, copy the directory from upstream again
 rather than editing it here.
 
-The other files are original work by the repository owner. No license has
-been chosen for them yet.
+Everything else is released under the MIT License in [`LICENSE`](LICENSE).
